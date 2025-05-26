@@ -52,7 +52,7 @@ console.log("9)", oggi);
 var num1 = [1, 2, 3, 4];
 var num2 = [1, 2, 3, 4];
 console.log("10)", num1, num2);
-// 11) Tupla con 3 stringhe e 2 numeri (nota: la tua definizione ne ha solo 3 elementi, ne aggiungo altri 2)
+// 11) Tupla con 3 stringhe e 2 numeri
 var miaTupla = ["Davide", "D'Angelo", 22, "Roma", 1990];
 console.log("11)", miaTupla);
 var persona1 = { firstname: "Luigi", lastname: "Verdi", age: 40 };

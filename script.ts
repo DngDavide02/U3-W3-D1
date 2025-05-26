@@ -63,7 +63,7 @@ const num1: number[] = [1, 2, 3, 4];
 const num2: Array<number> = [1, 2, 3, 4];
 console.log("10)", num1, num2);
 
-// 11) Tupla con 3 stringhe e 2 numeri (nota: la tua definizione ne ha solo 3 elementi, ne aggiungo altri 2)
+// 11) Tupla con 3 stringhe e 2 numeri
 const miaTupla: [string, string, number, string, number] = ["Davide", "D'Angelo", 22, "Roma", 1990];
 console.log("11)", miaTupla);
 // ____________________________________________________________________
