@@ -64,7 +64,7 @@ const num2: Array<number> = [1, 2, 3, 4];
 console.log("10)", num1, num2);
 
 // 11) Tupla con 3 stringhe e 2 numeri
-const miaTupla: [string, string, number, string, number] = ["Davide", "D'Angelo", 22, "Roma", 1990];
+const miaTupla: [string, string, number, string, number] = ["Davide", "D'Angelo", 22, "Roma", 2002];
 console.log("11)", miaTupla);
 // ____________________________________________________________________
 // 12) Differenza tra type e interface:

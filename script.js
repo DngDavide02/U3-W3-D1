@@ -53,7 +53,7 @@ var num1 = [1, 2, 3, 4];
 var num2 = [1, 2, 3, 4];
 console.log("10)", num1, num2);
 // 11) Tupla con 3 stringhe e 2 numeri
-var miaTupla = ["Davide", "D'Angelo", 22, "Roma", 1990];
+var miaTupla = ["Davide", "D'Angelo", 22, "Roma", 2002];
 console.log("11)", miaTupla);
 var persona1 = { firstname: "Luigi", lastname: "Verdi", age: 40 };
 console.log("13)", persona1);
